@@ -15,3 +15,6 @@ Controls
 
 `R` restarts the game
 
+Compiled Version
+==========
+If you wish to download an executable .jar, <a href="https://www.dropbox.com/s/lubgbtnz2bjpti2/LostSpaceship.jar">here is the link</a>.
